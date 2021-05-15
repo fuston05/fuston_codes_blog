@@ -2,6 +2,9 @@
 
 My new programming and web development tips &amp; tuts blog!
 
+> I created this repo to contain all the sample code that goes into my blogs incase you want to play around with some of these ideas yourself.
+> I am always open to positive criticism and feedback, so please don't hesitate to share your thoughts or make suggestions. Thank you for checking out my content!
+
 ### Blogs
 [Check out all of my blogs on Meduim.](https://scott-a-fuston.medium.com/)
 
